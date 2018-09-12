@@ -1,0 +1,53 @@
+{
+    "sentencias": [
+        {
+            "id": 1,
+            "organo": "Juzgado Contencioso-Administrativo n 15",
+            "fecha": "03|01|2017",
+            "materia": "Impuestos",
+            "resumen": "Desestimacion expresa de recurso de reposicion contra liquidacion de IIVTNU",
+            "pdf": "http://archivo.ayto-arganda.es/DA/Jur/001_2017.pdf"
+            },
+            {
+            "id": 2,
+            "organo": "Tribunal Superior de Justicia, Sala de lo Contencioso Administrativo, Seccion Segunda",
+            "fecha": "18|01|2017",
+            "materia": "Industria",
+            "resumen": "Desestimacion expresa de recurso de reposicion por sancion (licencia de apertura)",
+            "pdf": "http://archivo.ayto-arganda.es/DA/Jur/002_2017.pdf"
+            },
+            {
+            "id": 3,
+            "organo": "Juzgado Contencioso-Administrativo n 21",
+            "fecha": "27|01|2017",
+            "materia": "Responsabilidad Patrimonial",
+            "resumen": "Desestimacion por silencio administrativo de reclamacion por daños en via publica",
+            "pdf": "http://archivo.ayto-arganda.es/DA/Jur/003_2017.pdf"
+            },
+            {
+            "id": 4,
+            "organo": "Juzgado Contencioso-Administrativo n 26",
+            "fecha": "30|01|2017",
+            "materia": "Impuestos",
+            "resumen": "Desestimacion expresa de recurso de reposicion contra liquidacion de IIVTNU",
+            "pdf": "http://archivo.ayto-arganda.es/DA/Jur/004_2017.pdf"
+            },
+            {
+            "id": 5,
+            "organo": "Juzgado Contencioso-Administrativo n 27",
+            "fecha": "02|02|2017",
+            "materia": "Contratos",
+            "resumen": "Facturas impagadas e Intereses de demora",
+            "pdf": "http://archivo.ayto-arganda.es/DA/Jur/005_2017.pdf"
+            },
+            {
+            "id": 6,
+            "organo": "Juzgado Contencioso-Administrativo n 27",
+            "fecha": "17|02|2017",
+            "materia": "Impuestos",
+            "resumen": "Desestimacion expresa de recurso de reposicion contra liquidacion de IIVTNU",
+            "pdf": "http://archivo.ayto-arganda.es/DA/Jur/006_2017.pdf"
+            }
+            
+    ]
+}
